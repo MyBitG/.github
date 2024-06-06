@@ -1,4 +1,4 @@
-[![hero](https://github.com/MyBitG/.github/tree/main/assets/hero.svg)](https://mybitg.com)
+[![hero](https://github.com/MyBitG/.github/blob/main/assets/hero.svg)](https://mybitg.com)
 
 <h1 align='center'> Welcome, my G :wave:</h1>
 <p align='center'>
